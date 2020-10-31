@@ -15,8 +15,8 @@ It is a personal challenge of mine to complete 10 projects in this directory for
 
 ### Project List
 
-|No:   | Name of Project                                                  | Short Description                                 |Js inbuilt functions used                     |
+|No:   | Name of Project                                                  | Short Description                                 |Js functions, methods, objects used           |
 |------|------------------------------------------------------------------|---------------------------------------------------|----------------------------------------------|
 |1     |[Dynamic Progress Bar](https://codepen.io/debaghosh/full/MWeQJKK) |Enter percentage and see the progress bar work!    |<kbd>addEventListenter('change',func)</kbd><kbd>setTimeOut</kbd>
 |2     |Mifi Game                                                         |Help Mifi :rabbit: avoid the cactus!:cactus:       |<kbd>addEventListener('keyup',func)</kbd><kbd>setInterval</kbd><kbd>clearInterval</kbd><kbd>setTimeOut</kbd>
-|3     |[New Year Countdown](https://codepen.io/debaghosh/full/ZEOxBYq)   |I just want 2020 to end! :weary:                   |
+|3     |[New Year Countdown](https://codepen.io/debaghosh/full/ZEOxBYq)   |I just want 2020 to end! :weary:                   |<kbd>Date</kbd>
