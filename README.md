@@ -22,4 +22,4 @@ It is a personal challenge of mine to complete 10 projects in this directory for
 |3     |[New Year Countdown](https://codepen.io/debaghosh/full/ZEOxBYq)   |I just want 2020 to end! :weary:                   |<kbd>Date</kbd><kbd>setInterval</kbd>     
 |4     |[Form Validation](https://codepen.io/debaghosh/full/yLJKGyV) [NC] |Validating a form on the client side using Js      |
 |5     |[Jin's Jokes](https://codepen.io/debaghosh/full/pobGYZb)          |Tribute to our beloved Jin and his ajhussi jokes! :smile: |<kbd>async</kbd><kbd>await</kbd><kbd>fetch</kbd> 
-|6     |[Weight Convertor](https://github.com/debaghosh/A-Weight-Converter)|Convert different units of weight.                |                |
+|6     |[Weight Convertor](https://debaghosh.github.io/A-Weight-Converter/)|Convert different units of weight.                |                |
