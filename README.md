@@ -23,3 +23,7 @@ It is a personal challenge of mine to complete 10 projects in this directory for
 |4     |[Form Validation](https://codepen.io/debaghosh/full/yLJKGyV) [NC] |Validating a form on the client side using Js      |
 |5     |[Jin's Jokes](https://codepen.io/debaghosh/full/pobGYZb)          |Tribute to our beloved Jin and his ajhussi jokes! :smile: |<kbd>async</kbd><kbd>await</kbd><kbd>fetch</kbd> 
 |6     |[Weight Convertor](https://debaghosh.github.io/A-Weight-Converter/)|Convert different units of weight.🏋️              |<kbd>dom</kbd>                |
+|7     |[Send Love Button]                                                |                                                   |
+|8     |[Random Meal Generator]                                           |                                                   |
+|9     |[Theme Toggler]                                                   |
+|10    |[Snake Game]
