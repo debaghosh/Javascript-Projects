@@ -21,4 +21,4 @@ It is a personal challenge of mine to complete 10 projects in this directory for
 |2     |Mifi Game                                                         |Help Mifi :rabbit: avoid the cactus!:cactus:       |<kbd>addEventListener('keyup',func)</kbd><kbd>setInterval</kbd><kbd>clearInterval</kbd><kbd>setTimeOut</kbd>
 |3     |[New Year Countdown](https://codepen.io/debaghosh/full/ZEOxBYq)   |I just want 2020 to end! :weary:                   |<kbd>Date</kbd><kbd>setInterval</kbd>     
 |4     |Form Validation                                                   |Validating a form on the client side using Js      |
-|5     |[Jin's Jokes](https://codepen.io/debaghosh/full/pobGYZb)          |Tribute to our beloved Jin and his ajhussi jokes!  |<kbd>async</kbd><kbd>await</kbd><kdb>fetch</kbd>                         |
+|5     |[Jin's Jokes](https://codepen.io/debaghosh/full/pobGYZb)          |Tribute to our beloved Jin and his ajhussi jokes!  |<kbd>async</kbd><kbd>await</kbd><kbd>fetch</kbd>                         |
