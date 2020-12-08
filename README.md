@@ -15,7 +15,7 @@ It is a personal challenge of mine to complete 10 projects in this directory for
 
 ### Project List
 
-|No:   | Name of Project                                                  | Short Description                                 |Js functions, methods, objects used           |
+|No:   | Name of Project                                                  | Short Description                                 |Js dom, functions, methods, objects used           |
 |------|------------------------------------------------------------------|---------------------------------------------------|----------------------------------------------|
 |1     |[Dynamic Progress Bar](https://codepen.io/debaghosh/full/MWeQJKK) |Enter percentage and see the progress bar work!    |<kbd>addEventListenter('change',func)</kbd><kbd>setTimeOut</kbd>
 |2     |Mifi Game                                                         |Help Mifi :rabbit: avoid the cactus!:cactus:       |<kbd>addEventListener('keyup',func)</kbd><kbd>setInterval</kbd><kbd>clearInterval</kbd><kbd>setTimeOut</kbd>
@@ -24,6 +24,6 @@ It is a personal challenge of mine to complete 10 projects in this directory for
 |5     |[Jin's Jokes](https://codepen.io/debaghosh/full/pobGYZb)          |Tribute to our beloved Jin and his ajhussi jokes! :smile: |<kbd>async</kbd><kbd>await</kbd><kbd>fetch</kbd> 
 |6     |[Weight Convertor](https://debaghosh.github.io/A-Weight-Converter/)|Convert different units of weight.🏋️              |<kbd>dom</kbd>                |
 |7     |[Team 7 List](https://codepen.io/debaghosh/full/KKgzLGQ)          |A filterable list to search members!               |<kbd>indexOf</kbd><kbd>addEventListener('keyup',func)</kbd>
-|8     |[Random Meal Generator]                                           |                                                   |
+|8     |[Shopping List](https://codepen.io/debaghosh/pen/XWjKGKO?editors=1000)|A simple list to add and delete items!🛒       |<kbd>dom</kbd>|
 |9     |[Theme Toggler]                                                   |
 |10    |[Snake Game]
