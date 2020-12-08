@@ -24,6 +24,6 @@ It is a personal challenge of mine to complete 10 projects in this directory for
 |5     |[Jin's Jokes](https://codepen.io/debaghosh/full/pobGYZb)          |Tribute to our beloved Jin and his ajhussi jokes! :smile: |<kbd>async</kbd><kbd>await</kbd><kbd>fetch</kbd> 
 |6     |[Weight Convertor](https://debaghosh.github.io/A-Weight-Converter/)|Convert different units of weight.🏋️              |<kbd>dom</kbd>                |
 |7     |[Team 7 List](https://codepen.io/debaghosh/full/KKgzLGQ)          |A filterable list to search members!               |<kbd>indexOf</kbd><kbd>addEventListener('keyup',func)</kbd>
-|8     |[Shopping List](https://codepen.io/debaghosh/pen/XWjKGKO?editors=1000)|A simple list to add and delete items!🛒       |<kbd>dom</kbd>|
-|9     |[Theme Toggler]                                                   |
+|8     |[Shopping List](https://codepen.io/debaghosh/full/XWjKGKO)        |A simple list to add and delete items!🛒           |<kbd>dom</kbd>|
+|9     |[DrumKit](https://codepen.io/debaghosh/full/GRjqaOR)              |Play the drums!🥁                                  |
 |10    |[Snake Game]
