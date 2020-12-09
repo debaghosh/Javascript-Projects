@@ -27,3 +27,4 @@ It is a personal challenge of mine to complete 10 projects in this directory for
 |8     |[Shopping List](https://codepen.io/debaghosh/full/XWjKGKO)        |A simple list to add and delete items!🛒           |<kbd>dom</kbd>|
 |9     |[DrumKit](https://codepen.io/debaghosh/full/GRjqaOR)              |Play the drums!🥁                                  |
 |10    |[Ghibli Films website](https://debaghosh.github.io/Ghibli-API-simple-website/)|Used the simple Ghibli API to display the movie names of the studio and their descriptions!🎥| <kbd>fetch</kbd><kbd>forEach</kbd>
+|11    |[Taylor's quotes!](https://codepen.io/debaghosh/full/ExggyYG)     |Used the [taylor rest api](https://github.com/zwakheid/taylor.rest) to generate some iconic Taylor Swift's quotes:heart:! | <kbd>fetch</kbd>
